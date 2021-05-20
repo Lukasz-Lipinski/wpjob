@@ -1,0 +1,42 @@
+.reg:hover{
+  background: rgb(180, 180, 180);
+  color: rgb(21, 80, 190);
+}
+
+.reg:focus {
+  background: rgb(180, 180, 180);
+  color: rgb(21, 80, 190);
+}
+
+.log:hover{
+  background: rgb(21, 80, 190);
+  color: white;
+}
+
+.log:focus {
+  background: rgb(21, 80, 190);
+  color: white;
+}
+
+h4 {
+  color: rgb(70, 70, 70);
+}
+
+.btn {
+  text-decoration: none;
+  border-color: rgba(240, 248, 255, 0.877);
+}
+
+div.btn-group :first-child{
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
+}
+div.btn-group :last-child{
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.card-group{
+  width: 250px;
+  height: 220px;
+}
