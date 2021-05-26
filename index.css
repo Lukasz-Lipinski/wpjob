@@ -40,3 +40,12 @@ div.btn-group :last-child{
   width: 250px;
   height: 220px;
 }
+
+.bg{
+  border: 2px solid black;
+  background-color:  lightblue;
+}
+
+div.container-fluid{
+  background-color: #41484e;
+}
